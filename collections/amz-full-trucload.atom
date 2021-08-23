@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://liquidationdeals.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://liquidationdeals.ca/collections/amz-full-trucload.atom"/>
+  <title>liquidationdeals.ca</title>
+  <updated>2021-06-25T01:31:15-04:00</updated>
+  <author>
+    <name>liquidationdeals.ca</name>
+  </author>
+  <entry>
+    <id>https://liquidationdeals.ca/products/6875868659900</id>
+    <published>2021-06-25T01:31:15-04:00</published>
+    <updated>2021-06-25T01:31:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/amz-high-count-truckload-24-pallets"/>
+    <title>AMZ High Count Truckload (24 Pallets)</title>
+    <s:type>wholesale liquidation pallet</s:type>
+    <s:vendor>LiquidationDeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/amz-high-count-truckload-24-pallets-liquidationdeals-ca-29352970387644.jpg?v=1624722185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LiquidationDeals.ca<br>
+        <strong>Type: </strong>wholesale liquidation pallet<br>
+        <strong>Price: </strong>
+            39600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>AMZ truckloads available for you to purchase:</p>
+<p>1- AMZ Bulk Pallets (24 or 26) </p>
+<p>2- AMZ High Count Pallets (24 or 26)</p>
+<p>3- AMZ Smalls Pallets (24 or 26) </p>
+<p> </p>
+<p>for more info please contact us at +1(647)544-1235</p>
+<p>Shipping is available Canada wide, for quotations please email us at info@liquidationdeals.ca</p>
+<p>or simply call us at  <span>+1(647)544-1235</span></p>
+<p> </p>
+<p>Truckloads is available within same day or 1 to 2 business days. </p>
+<p><span>Payment Method: Wire Transfer Only   </span><br><span>contact us for details</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gaylord</s:tag>
+    <s:tag>high count</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>online reseller</s:tag>
+    <s:tag>retail</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/6875868659900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39600.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://liquidationdeals.ca/products/6810985693372</id>
+    <published>2021-06-03T23:06:10-04:00</published>
+    <updated>2021-06-03T23:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/courier-unclaimed-packages-pallet-us14"/>
+    <title>AMZ Bulk Truckload (24 Pallets)</title>
+    <s:type>wholesale liquidation pallet</s:type>
+    <s:vendor>LiquidationDeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/amz-bulk-truckload-24-pallets-liquidationdeals-ca-29352950497468.jpg?v=1624732864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LiquidationDeals.ca<br>
+        <strong>Type: </strong>wholesale liquidation pallet<br>
+        <strong>Price: </strong>
+            19200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>AMZ truckloads available for you to purchase:</p>
+<p>1- AMZ Bulk Pallets (24 or 26) </p>
+<p>2- AMZ High Count Pallets (24 or 26)</p>
+<p>3- AMZ Smalls Pallets (24 or 26) </p>
+<p> </p>
+<p>for more info please contact us at +1(647)544-1235</p>
+<p>Shipping is available Canada wide, for quotations please email us at info@liquidationdeals.ca</p>
+<p>or simply call us at  <span>+1(647)544-1235</span></p>
+<p> </p>
+<p>Truckloads is available within same day or 1 to 2 business days.</p>
+<p> <br>Payment Method: Wire Transfer Only   <br>contact us for details</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gaylord</s:tag>
+    <s:tag>high count</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>online reseller</s:tag>
+    <s:tag>retail</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/6810985693372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
